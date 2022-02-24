@@ -7,7 +7,7 @@
 ###   3. Run a local server at the docs folder
 ###   4. ¡Enjoy!
 
-## Also you can probe the aplication at: https://sebastiangamez.github.io/weather--app/
+## Also you can probe the application at: https://sebastiangamez.github.io/weather--app/
 
 ### Contact Me
 
