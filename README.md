@@ -1,12 +1,11 @@
 # weather app ✨
 ### Weather app with api consume, created with React JS. Web aplication created with react arrow function components, hooks and prop-types.
 
-## Steps for the instalation:
+## Steps for the installation:
 ###   1. Clone the project
 ###   2. Extract file
-###   3. Install dependecies
-###   4. Run a local server at the docs folder
-###   5. ¡Enjoy!
+###   3. Run a local server at the docs folder
+###   4. ¡Enjoy!
 
 ## Also you can probe the aplication at: https://sebastiangamez.github.io/weather--app/
 
