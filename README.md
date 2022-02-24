@@ -9,7 +9,7 @@
 
 ## Also you can probe the application at: https://sebastiangamez.github.io/weather--app/
 
-### Contact Me
+## Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/-juan.gamez1001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juan.gamez1001@gmail.com)](mailto:juan.gamez1001@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-gamez-ariza-0963b7228/)](https://www.linkedin.com/in/sebastian-gamez-ariza-0963b7228/)
